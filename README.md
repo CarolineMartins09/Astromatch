@@ -55,7 +55,7 @@
 
 **<p>Página que recebe matchs dados na página inicial</p>**
 
-![](./astromatch/src/imagens/pagMatchs.png)
+![](./astromatch/src/imagens/pagMatchss.png)
 
 ---
 
