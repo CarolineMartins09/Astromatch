@@ -19,8 +19,6 @@ function Card(props) {
 
     useEffect(() => { getProfile() }, [])
 
-
-
     const url = "https://us-central1-missao-newton.cloudfunctions.net/astroMatch/caroline/choose-person"
 
     //POST CURTIU
