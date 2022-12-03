@@ -3,7 +3,7 @@ import axios from "axios";
 import { CenterGrid, Center, Header, Icon, Descript, MainGrid, NameAge, Bio, Imagem, IconPag, TextFinal, Final } from "../styled/cardStyled"
 import ImagemHearder from "../imagens/headerSemFundo.png"
 import MudaPag from "../imagens/coneccao.png"
-import CoracaoVermelho from "../imagenscoracao.png"
+import CoracaoVermelho from "../imagens/coracao.pngcoracao.png"
 import Xis from "../imagens/x.png"
 
 //pagina Inicial para curtir 
