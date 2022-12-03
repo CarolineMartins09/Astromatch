@@ -37,7 +37,7 @@
 ---
 
 ## Página inicial
-![](./astromatch/src/imagens/pagInicial.png)
+![](./astromatch/src/imagens/pagInicials.png)
 
 **<p>Botões com funcionalidade ao clicar no coração possiveis condidados serão adicionais a página de matchs</p>**
 
@@ -45,7 +45,7 @@
 ---
 ## Página inicial quando chega ao fim da api
 
-![](./astromatch/src/imagens/pagFimApi.png)
+![](./astromatch/src/imagens/pagFimApis.png)
 
 **<p> Com funcionalidade ao botão para retornar ao inicio da API</p>**
 
@@ -60,7 +60,7 @@
 ---
 
 ## Página Matchs após limpar candidados
-![](./astromatch/src/imagens/pagClear.png)
+![](./astromatch/src/imagens/pagClears.png)
 
 --- 
 
