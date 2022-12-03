@@ -45,7 +45,7 @@
 ---
 ## Página inicial quando chega ao fim da api
 
-![](./astromatch/src/imagens/pagFimApi.png)
+![](./astromatch/src/imagens/pagFimApis.png)
 
 **<p> Com funcionalidade ao botão para retornar ao inicio da API</p>**
 
