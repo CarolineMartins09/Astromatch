@@ -60,7 +60,7 @@
 ---
 
 ## Página Matchs após limpar candidados
-![](./astromatch/src/imagens/pagClears.png)
+![](./astromatch/src/imagens/pagClearss.png)
 
 --- 
 
