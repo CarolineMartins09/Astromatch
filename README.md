@@ -37,7 +37,7 @@
 ---
 
 ## Página inicial
-![](./astromatch/src/imagens/pagInicial.png)
+![](./astromatch/src/imagens/pagInicials.png)
 
 **<p>Botões com funcionalidade ao clicar no coração possiveis condidados serão adicionais a página de matchs</p>**
 
