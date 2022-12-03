@@ -3,7 +3,7 @@ import axios from "axios";
 import { CenterGrid, Center, Header, Icon, Descript, MainGrid, NameAge, Bio, Imagem, IconPag, TextFinal, Final } from "../styled/cardStyled"
 import ImagemHearder from "../imagens/headerSemFundo.png"
 import MudaPag from "../imagens/coneccao.png"
-import CoracaoVermelho from "../imagens/coracao.pngcoracao.png"
+import CoracaoVermelho from "../imagens/coracao.png"
 import Xis from "../imagens/x.png"
 
 //pagina Inicial para curtir 
@@ -13,7 +13,7 @@ function Card(props) {
     //REQUISIÇÃO retorna perfil não visto
     const getProfile = () => {
         axios.get`https://us-central1-missao-newton.cloudfunctions.net/astroMatch/caroline/person`
-            .then((response) => { setUsuario(response.data.profile); console.log(response) })
+            .then((response) => { setUsuario(response.data.profile); console.log(response.data.profile) })
             .catch((erro) => { console.log(erro) })
     }
 
